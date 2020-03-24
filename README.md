@@ -24,10 +24,10 @@ Open the powershell or terminal
 ### Step3
 
 ```
-$cd yourpathtoLightWeightModel
+$cd yourpathtoLighweight_Denoise
 
 $pwd
-> ~/LightWeightModel
+> ~/Lighweight_Denoise
 
 $pip install --upgrade -r requirements.txt
 
